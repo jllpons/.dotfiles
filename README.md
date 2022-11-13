@@ -1,5 +1,5 @@
 # .dotfiles
 
-Personal configuration files for zshrc, nvim and status bar.
+Configuration files for zshrc, nvim and status bar on macOS.
 
 ![Here's an example.](Example.png)
